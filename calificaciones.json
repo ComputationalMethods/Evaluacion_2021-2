@@ -22,7 +22,7 @@
                },
                 {"Tarea": "2",
                 "value": 0,
-                "description": "Computer arithmetics"
+                "description": "Computer arithmetics o Tarea Pandas"
                },               
                 {"Tarea": "3",
                 "value": 0,
@@ -34,47 +34,109 @@
                }
               ]
     },
-    {"student_id":"1001469185",
-     "Parcial_1":{"value":0,
-                  "%":15,
-                  "description": "Capítulos 1,2,3"
-                 },     
-     "Parcial_2":{"value":0,
-                  "%":20,
-                  "description": "Capítulos 4,5"
-                 },
-     "Parcial_3":{"value":null,
-                  "%":20,
-                  "description": "Capítulos 6,7,8"
-                 },     
-     "Trabajo_Final":{"value":null,
-                  "%":15,
-                  "description": "jupyter notebook"
-                 },     
-     "Tareas":[{"Tarea": "1",
-                "value": 0,
-                "description": "Python overview"
-               },
-                {"Tarea": "2",
-                "value": 0,
-                "description": "Pandas"
-               },
-                {"Tarea": "3",
-                "value": 0,
-                "description": "Computer arithmetics"
-               },               
-                {"Tarea": "4",
-                "value": 0,
-                "description": "Raíces (Fixed-Point)"
-               },
-               {"Tarea": "5",
-                "value": 0,
-                "description": "Polinomios de Lagrange"
-               },
-               {"Taller":"Profesor Externo",
-                "value":null,
-                "%":15
-               }
-              ]
-    }    
+    {"student_id":"1001735333",
+        "Parcial_1":{"value":4.5,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4 → Se debe evitar el uso de for con DataFrame"
+                    },     
+        "Parcial_2":{"value":4.0,
+                     "%":20,
+                     "description": "Capítulos 5,6 → Y debe ser diagonalizado con SVD"
+                    },
+        "Parcial_3":{"value":4.5,
+                     "%":20,
+                     "description": "Capítulos 7,8 → Usar variables en lugar de números a mano"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook → Datos Lidar 2"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 5.0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics o Tarea Pandas"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"1003970969",
+        "Parcial_1":{"value":3.0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4. Ejes equivocados"
+                    },     
+        "Parcial_2":{"value":4.5,
+                     "%":20,
+                     "description": "Capítulos 5,6: Faltó ordenar bien y mejorar en estándares de graficación"
+                    },
+        "Parcial_3":{"value":5.0,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook → Paracaidista 1"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 5.0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 5.0,
+                   "description": "Computer arithmetics o tarea pandas"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       }                  
 ]
