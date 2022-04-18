@@ -2,15 +2,15 @@
     {"student_id":"0000000000",
      "Parcial_1":{"value":0,
                   "%":15,
-                  "description": "Capítulos 1,2,3"
+                  "description": "Capítulos 1,2,3,4"
                  },     
      "Parcial_2":{"value":0,
                   "%":20,
-                  "description": "Capítulos 4,5"
+                  "description": "Capítulos 5,6"
                  },
      "Parcial_3":{"value":null,
                   "%":20,
-                  "description": "Capítulos 6,7,8"
+                  "description": "Capítulos 7,8"
                  },     
      "Trabajo_Final":{"value":null,
                   "%":15,
@@ -22,19 +22,11 @@
                },
                 {"Tarea": "2",
                 "value": 0,
-                "description": "Pandas"
-               },
-                {"Tarea": "3",
-                "value": 0,
                 "description": "Computer arithmetics"
                },               
-                {"Tarea": "4",
+                {"Tarea": "3",
                 "value": 0,
-                "description": "Raíces (Fixed-Point)"
-               },
-               {"Tarea": "5",
-                "value": 0,
-                "description": "Polinomios de Lagrange"
+                "description": "Linear Algebra"
                },
                {"Taller":"Profesor Externo",
                 "value":null,
