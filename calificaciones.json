@@ -49,7 +49,7 @@
                     },     
         "Trabajo_Final":{"value":null,
                      "%":15,
-                     "description": "jupyter notebook → Datos Lidar 2"
+                     "description": "jupyter notebook → Datos Lidar 3"
                     },     
         "Tareas":[{"Tarea": "1",
                    "value": 5.0,
@@ -104,6 +104,41 @@
                   }
                  ]
        },
+       {"student_id":"1000439477",
+        "Parcial_1":{"value":4.5,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4: Uso de for para alterar DataFrame no recomendado"
+                    },     
+        "Parcial_2":{"value":4.0,
+                     "%":20,
+                     "description": "Capítulos 5,6: Mejorar estándares de graficacón. Faltó ordenar los autovalores."
+                    },
+        "Parcial_3":{"value":4.5,
+                     "%":20,
+                     "description": "Capítulos 7,8  → Faltaron unidades"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook → cuerpo libre en un sistema de cuerpos masivos libres: 2"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
        {"student_id":"0000000003",
         "Parcial_1":{"value":0,
                      "%":15,
@@ -138,5 +173,320 @@
                    "%":15
                   }
                  ]
-       }                  
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       }                                                                                       
 ]
