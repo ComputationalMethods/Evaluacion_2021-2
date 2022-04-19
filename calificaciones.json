@@ -139,8 +139,8 @@
                   }
                  ]
        },
-       {"student_id":"0000000003",
-        "Parcial_1":{"value":0,
+       {"student_id":"1007362148",
+        "Parcial_1":{"value":5.0,
                      "%":15,
                      "description": "Capítulos 1,2,3,4"
                     },     
@@ -174,25 +174,25 @@
                   }
                  ]
        },
-       {"student_id":"0000000003",
-        "Parcial_1":{"value":0,
+       {"student_id":"1017259461",
+        "Parcial_1":{"value":4.5,
                      "%":15,
-                     "description": "Capítulos 1,2,3,4"
+                     "description": "Capítulos 1,2,3,4 → La aceleración tiene un factor de 1/2"
                     },     
-        "Parcial_2":{"value":0,
+        "Parcial_2":{"value":3.5,
                      "%":20,
-                     "description": "Capítulos 5,6"
+                     "description": "Capítulos 5,6 → Faltó diagonalizar Y con SVD y faltó ordenar autovalores"
                     },
-        "Parcial_3":{"value":null,
+        "Parcial_3":{"value":4.5,
                      "%":20,
-                     "description": "Capítulos 7,8"
+                     "description": "Capítulos 7,8 → Bajos estandares en plot"
                     },     
         "Trabajo_Final":{"value":null,
                      "%":15,
-                     "description": "jupyter notebook"
+                     "description": "jupyter notebook → Bobinas 4"
                     },     
         "Tareas":[{"Tarea": "1",
-                   "value": 0,
+                   "value": 5.0,
                    "description": "Python overview"
                   },
                    {"Tarea": "2",
@@ -209,25 +209,25 @@
                   }
                  ]
        },
-       {"student_id":"0000000003",
-        "Parcial_1":{"value":0,
+       {"student_id":"1004579495",
+        "Parcial_1":{"value":5.0,
                      "%":15,
                      "description": "Capítulos 1,2,3,4"
                     },     
-        "Parcial_2":{"value":0,
+        "Parcial_2":{"value":4.0,
                      "%":20,
-                     "description": "Capítulos 5,6"
+                     "description": "Capítulos 5,6: round redondea a cero cifras, faltó ordenar atuovalores"
                     },
-        "Parcial_3":{"value":null,
+        "Parcial_3":{"value":4.5,
                      "%":20,
-                     "description": "Capítulos 7,8"
+                     "description": "Capítulos 7,8 → Faltaron unidades den años"
                     },     
         "Trabajo_Final":{"value":null,
                      "%":15,
-                     "description": "jupyter notebook"
+                     "description": "jupyter notebook → Colisiones 5"
                     },     
         "Tareas":[{"Tarea": "1",
-                   "value": 0,
+                   "value": 5.0,
                    "description": "Python overview"
                   },
                    {"Tarea": "2",
