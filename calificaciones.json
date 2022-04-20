@@ -157,7 +157,7 @@
                      "description": "jupyter notebook"
                     },     
         "Tareas":[{"Tarea": "1",
-                   "value": 0,
+                   "value": 5.0,
                    "description": "Python overview"
                   },
                    {"Tarea": "2",
@@ -384,7 +384,7 @@
                   }
                  ]
        },
-       {"student_id":"0000000003",
+       {"student_id":"1001013769",
         "Parcial_1":{"value":0,
                      "%":15,
                      "description": "Capítulos 1,2,3,4"
@@ -402,7 +402,42 @@
                      "description": "jupyter notebook"
                     },     
         "Tareas":[{"Tarea": "1",
+                   "value": 5.0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 5.0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
                    "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"1001228880",
+        "Parcial_1":{"value":3.0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4 → Faltaron preguntas y mejorar estandares de graficación"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 5.0,
                    "description": "Python overview"
                   },
                    {"Tarea": "2",
@@ -411,6 +446,76 @@
                   },               
                    {"Tarea": "3",
                    "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"1003315591",
+        "Parcial_1":{"value":2.0+,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 5.0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       },
+       {"student_id":"1000413445",
+        "Parcial_1":{"value":5.0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4 → Felicitaciones: muy buen manejo de los estándares de análisis y graficación "
+                    },     
+        "Parcial_2":{"value":5.0,
+                     "%":20,
+                     "description": "Capítulos 5,6: "
+                    },
+        "Parcial_3":{"value":5.0,
+                     "%":20,
+                     "description": "Capítulos 7,8: Felicitactiones! Muy bueno el truco de cambiar e por 2 para evitar la propagación de errores"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 5.0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 5.0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 5.0,
                    "description": "Linear Algebra"
                   },
                   {"Taller":"Profesor Externo",
@@ -488,5 +593,40 @@
                    "%":15
                   }
                  ]
-       }                                                                                       
+       },
+       {"student_id":"0000000003",
+        "Parcial_1":{"value":0,
+                     "%":15,
+                     "description": "Capítulos 1,2,3,4"
+                    },     
+        "Parcial_2":{"value":0,
+                     "%":20,
+                     "description": "Capítulos 5,6"
+                    },
+        "Parcial_3":{"value":null,
+                     "%":20,
+                     "description": "Capítulos 7,8"
+                    },     
+        "Trabajo_Final":{"value":null,
+                     "%":15,
+                     "description": "jupyter notebook"
+                    },     
+        "Tareas":[{"Tarea": "1",
+                   "value": 0,
+                   "description": "Python overview"
+                  },
+                   {"Tarea": "2",
+                   "value": 0,
+                   "description": "Computer arithmetics"
+                  },               
+                   {"Tarea": "3",
+                   "value": 0,
+                   "description": "Linear Algebra"
+                  },
+                  {"Taller":"Profesor Externo",
+                   "value":null,
+                   "%":15
+                  }
+                 ]
+       }                                                                                                            
 ]
