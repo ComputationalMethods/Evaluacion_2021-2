@@ -28,4 +28,6 @@ See install options and usage at: https://fastapi.tiangolo.com/
 $ uvicorn main:app --reload --host clustercien.udea.edu.co
 ```
 
+Also in https://computationalmethods.github.io/Evaluacion_2021-1/calificaciones.json
+
 
