@@ -1,7 +1,7 @@
 [
     {"student_id":"0000000000",
      "Parcial_1":{"value":0,
-                  "%":15,
+                  "%":20,
                   "description": "Capítulos 1,2,3,4"
                  },     
      "Parcial_2":{"value":0,
@@ -13,7 +13,7 @@
                   "description": "Capítulos 7,8"
                  },     
      "Trabajo_Final":{"value":0,
-                  "%":15,
+                  "%":20,
                   "description": "jupyter notebook"
                  },     
      "Tareas":[{"Tarea": "1",
@@ -36,7 +36,7 @@
     },
     {"student_id":"1001735333",
         "Parcial_1":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4 → Se debe evitar el uso de for con DataFrame"
                     },     
         "Parcial_2":{"value":4.0,
@@ -48,7 +48,7 @@
                      "description": "Capítulos 7,8 → Usar variables en lugar de números a mano"
                     },     
         "Trabajo_Final":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook → Datos Lidar 3"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -71,7 +71,7 @@
     },
     {"student_id":"1003970969",
         "Parcial_1":{"value":3.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4. Ejes equivocados"
                     },     
         "Parcial_2":{"value":4.5,
@@ -83,7 +83,7 @@
                      "description": "Capítulos 7,8"
                     },     
         "Trabajo_Final":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook → Paracaidista 1"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -106,7 +106,7 @@
     },
     {"student_id":"1000439477",
         "Parcial_1":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4: Uso de for para alterar DataFrame no recomendado"
                     },     
         "Parcial_2":{"value":4.0,
@@ -118,7 +118,7 @@
                      "description": "Capítulos 7,8  → Faltaron unidades"
                     },     
         "Trabajo_Final":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook → cuerpo libre en un sistema de cuerpos masivos libres: 2"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -134,14 +134,14 @@
                    "description": "Linear Algebra"
                   },
                   {"Taller":"Profesor Externo",
-                   "value":4.3,
+                   "value":4.7,
                    "%":15
                   }
                  ]
     },
     {"student_id":"1007362148",
         "Parcial_1":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4"
                     },     
         "Parcial_2":{"value":0,
@@ -153,7 +153,7 @@
                      "description": "Capítulos 7,8"
                     },     
         "Trabajo_Final":{"value":0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -176,7 +176,7 @@
     },
     {"student_id":"1017259461",
         "Parcial_1":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4 → La aceleración tiene un factor de 1/2"
                     },     
         "Parcial_2":{"value":3.5,
@@ -188,7 +188,7 @@
                      "description": "Capítulos 7,8 → Bajos estandares en plot"
                     },     
         "Trabajo_Final":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook → Bobinas 4"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -211,7 +211,7 @@
     },
     {"student_id":"1004579495",
         "Parcial_1":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4"
                     },     
         "Parcial_2":{"value":4.0,
@@ -223,7 +223,7 @@
                      "description": "Capítulos 7,8 → Faltaron unidades den años"
                     },     
         "Trabajo_Final":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook → Colisiones 5"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -246,7 +246,7 @@
     },
     {"student_id":"1006508118",
         "Parcial_1":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4 → uso de for no recomendado para modificar DataFrame"
                     },     
         "Parcial_2":{"value":4.0,
@@ -258,7 +258,7 @@
                      "description": "Capítulos 7,8 → Faltó propagación de errores"
                     },     
         "Trabajo_Final":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook: Péndulo doble → 4"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -281,7 +281,7 @@
     },
     {"student_id":"1000307065",
         "Parcial_1":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4"
                     },     
         "Parcial_2":{"value":5.0,
@@ -293,7 +293,7 @@
                      "description": "Capítulos 7,8"
                     },     
         "Trabajo_Final":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook → cuatro péundulos acplados con resortes2"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -316,7 +316,7 @@
     },
     {"student_id":"1152457227",
         "Parcial_1":{"value":0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4"
                     },     
         "Parcial_2":{"value":0,
@@ -328,7 +328,7 @@
                      "description": "Capítulos 7,8"
                     },     
         "Trabajo_Final":{"value":0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -351,7 +351,7 @@
     },
     {"student_id":"1216722165",
         "Parcial_1":{"value":4.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4 → Explicaciones muy escueta y falta de estándares"
                     },     
         "Parcial_2":{"value":3.0,
@@ -363,7 +363,7 @@
                      "description": "Capítulos 7,8: → faltó considerar la fricción"
                     },     
         "Trabajo_Final":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook → Problema de los 3 cuerpos 1"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -386,7 +386,7 @@
     },
     {"student_id":"1001013769",
         "Parcial_1":{"value":0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4"
                     },     
         "Parcial_2":{"value":0,
@@ -398,7 +398,7 @@
                      "description": "Capítulos 7,8"
                     },     
         "Trabajo_Final":{"value":0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -421,7 +421,7 @@
     },
     {"student_id":"1001228880",
         "Parcial_1":{"value":3.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4 → Faltaron preguntas y mejorar estandares de graficación"
                     },     
         "Parcial_2":{"value":0,
@@ -433,7 +433,7 @@
                      "description": "Capítulos 7,8"
                     },     
         "Trabajo_Final":{"value":0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -456,7 +456,7 @@
     },
     {"student_id":"1003315591",
         "Parcial_1":{"value":2.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4"
                     },     
         "Parcial_2":{"value":0,
@@ -468,7 +468,7 @@
                      "description": "Capítulos 7,8"
                     },     
         "Trabajo_Final":{"value":0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -491,7 +491,7 @@
     },
     {"student_id":"1000413445",
         "Parcial_1":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4 → Felicitaciones: muy buen manejo de los estándares de análisis y graficación "
                     },     
         "Parcial_2":{"value":5.0,
@@ -503,7 +503,7 @@
                      "description": "Capítulos 7,8: Felicitactiones! Muy bueno el truco de cambiar e por 2 para evitar la propagación de errores"
                     },     
         "Trabajo_Final":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook: 1"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -526,7 +526,7 @@
     },
     {"student_id":"1001469185",
         "Parcial_1":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4: Uso de for no recomendado para manipular DataFrames"
                     },     
         "Parcial_2":{"value":5.0,
@@ -538,7 +538,7 @@
                      "description": "Capítulos 7,8: error mal calculado y propagado"
                     },     
         "Trabajo_Final":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook: 1"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -561,7 +561,7 @@
     },
     {"student_id":"1000203739",
         "Parcial_1":{"value":2.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4 → pandas no generado"
                     },     
         "Parcial_2":{"value":0,
@@ -573,7 +573,7 @@
                      "description": "Capítulos 7,8"
                     },     
         "Trabajo_Final":{"value":0,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -596,7 +596,7 @@
     },
     {"student_id":"1036960267",
         "Parcial_1":{"value":5.0,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4"
                     },     
         "Parcial_2":{"value":5.0,
@@ -608,7 +608,7 @@
                      "description": "Capítulos 7,8 → Faltó la raíz cuadrada en el cálculo de error de λ"
                     },     
         "Trabajo_Final":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook → Faltaron las referencias"
                     },     
         "Tareas":[{"Tarea": "1",
@@ -631,7 +631,7 @@
     },
     {"student_id":"1193090281",
         "Parcial_1":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "Capítulos 1,2,3,4: Uso de for no recomendado para manipular DataFrames, faltó unidades"
                     },     
         "Parcial_2":{"value":5.0,
@@ -643,7 +643,7 @@
                      "description": "Capítulos 7,8 → Faltó la raíz cuadrada en el cálculo de error de λ"
                     },     
         "Trabajo_Final":{"value":4.5,
-                     "%":15,
+                     "%":20,
                      "description": "jupyter notebook: 4 "
                     },     
         "Tareas":[{"Tarea": "1",
